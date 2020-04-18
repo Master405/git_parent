@@ -1,7 +1,4 @@
-hello git parent
-<<<<<<< HEAD
+ello git parent
 hello add1
 hello add2
-=======
 hello child
->>>>>>> 84ace0e... cherry-pick
